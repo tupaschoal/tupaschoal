@@ -1,9 +1,9 @@
 ### About Tulio (64-bit) 🛰
 
 Mostly working on:
-* [jdm][1]: A directory of direct links to delete your account from web services.
-* [OpenRCT2][2]: An open source re-implementation of RollerCoaster Tycoon 2 🎢
-* [Time to Leave][3]: An app to log work hours and get notified when it's time to go home.
+* [jdm][1]: When I feel like reducing my digital presence, and want to delete some accounts 🧘🏽‍♂️
+* [OpenRCT2][2]: When I long for my childhood memories with RollerCoaster Tycoon 2 🎢
+* [Time to Leave][3]: When I want to make sure I have time for my hobbies ⏰
 
 Any fairly good idea will get me on board, specially involving:
 
@@ -15,7 +15,7 @@ Any fairly good idea will get me on board, specially involving:
 <!-- Rust -->
 <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/> </a>
 <!-- Ruby -->
-<a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="35" height="35"/> </a>
+<a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="34" height="34"/> </a>
 <!-- Qt -->
 <a href="https://en.wikipedia.org/wiki/Qt_(software)" target="_blank" alt="qt"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="37" height="37"/> </a>
 <!-- Git -->
